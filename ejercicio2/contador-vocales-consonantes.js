@@ -1,4 +1,4 @@
-import { contarConsonantes, contarVocales, leerCadena } from '../utils/contador-vocales-consonantes.utils.js'
+import { contarConsonantes, contarVocales, leerCadena } from '../utils/contadorVocalesConsonantes.utils.js'
 
 const cadena = leerCadena()
 if (cadena === '1') {
