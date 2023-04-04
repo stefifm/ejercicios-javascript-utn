@@ -1,0 +1,44 @@
+{
+  "personas": [
+    {
+      "id": "1",
+      "nombre": "Stefania",
+      "correo": "stefi@gmail.com",
+      "profesion": "Periodista",
+      "fechaNacimieto": "18-04-1992",
+      "edad": "30"
+    },
+    {
+      "id": "2",
+      "nombre": "Marcela",
+      "correo": "marcela@gmail.com",
+      "profesion": "Docente",
+      "fechaNacimieto": "04-08-1962",
+      "edad": "60"
+    },
+    {
+      "id": "3",
+      "nombre": "Federico",
+      "correo": "fede@gmail.com",
+      "profesion": "Analista de Sistema",
+      "fechaNacimieto": "03-06-1989",
+      "edad": "33"
+    },
+    {
+      "id": "4",
+      "nombre": "Pepe",
+      "correo": "pepe@gmail.com",
+      "profesion": "Verdulero",
+      "fechaNacimieto": "20-03-1970",
+      "edad": "52"
+    },
+    {
+      "id": "5",
+      "nombre": "Luisa",
+      "correo": "luisa@gmail.com",
+      "profesion": "Ingeniera en Sistemas",
+      "fechaNacimieto": "19-12-1985",
+      "edad": "37"
+    }
+  ]
+}
